@@ -36,6 +36,13 @@
       "eventId": "1",
       "eventTitle": "Rails Conference 2024",
       "status": "confirmed"
+    },
+    {
+      "id": "1734732335436",
+      "userId": 1,
+      "eventId": "2",
+      "eventTitle": "Vue Conference 2023",
+      "status": "confirmed"
     }
   ]
 }
